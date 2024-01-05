@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/IMHyemin-Bold.otf",
+      "sha1": "39f5256f3885c606f37a204a0c6c8e89aae2a5d2"
+    },
+    {
+      "path": "assets/fonts/IMHyemin-Regular.otf",
+      "sha1": "a3e63b3ffd75277ad28ad0cb06746d7faed0d53d"
+    }
+  ]
+}
