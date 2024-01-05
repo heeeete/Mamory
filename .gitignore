@@ -67,3 +67,4 @@ yarn-error.log
 
 #Config 파일
 config/
+index.android.bundle
