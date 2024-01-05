@@ -24,19 +24,21 @@
 
 # Demonstration   
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;로딩 / 로그인 화면
-<img width="430" alt="로딩 : 로그인 화면" src="https://github.com/licakim/Mamory/assets/101648575/5b6b1236-fd89-4b58-95c8-9516e6f228ff">  
+<img width="430" alt="로딩 : 로그인 화면" src="https://github.com/heeeete/Mamory/assets/101648575/f7714053-5afa-41bc-9cc5-ddad39831523">
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다이어리
-<img width="675" alt="다이어리 화면" src="https://github.com/licakim/Mamory/assets/101648575/82608add-09e9-4dce-b7fd-baa352daaf21">
+<img width="675" alt="다이어리 화면" src="https://github.com/heeeete/Mamory/assets/101648575/d131b14f-64c8-49de-9e64-434fca77b09b">
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;오늘 할 일
-<img width="434" alt="오늘 할 일 화면" src="https://github.com/licakim/Mamory/assets/101648575/0147b1f7-4332-49a9-b40d-02c776a66131">
+<img width="434" alt="오늘 할 일 화면" src="https://github.com/heeeete/Mamory/assets/101648575/112cb849-442f-4bfc-8e1c-ccb9ea81707d">
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;영화 / 책 리뷰
-<img width="674" alt="영화 : 책 리뷰" src="https://github.com/licakim/Mamory/assets/101648575/f7ec34ad-44e4-4eab-927b-1faaba3593a2">
+<img width="674" alt="영화 : 책 리뷰" src="https://github.com/heeeete/Mamory/assets/101648575/0bdf0160-f23d-473a-9d68-1ae5b9d03ed6">
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;마이페이지
-<img width="199" alt="마이페이지" src="https://github.com/licakim/Mamory/assets/101648575/0db4d683-2089-44dc-89aa-c58d2edbb771">
+<img width="199" alt="마이페이지" src="https://github.com/heeeete/Mamory/assets/101648575/6ead2b94-100a-45b1-a0d6-c8f6264bc220">
+
+
 
 
 
