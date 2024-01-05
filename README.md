@@ -45,7 +45,8 @@
 
       
 # Algorithm
-![다이어리 DB (1)](https://github.com/licakim/Mamory/assets/101648575/e91e93a3-a274-4654-bfaf-257a0c4669ae)
+![다이어리 DB (1)](https://github.com/licakim/Mamory/assets/103026721/54efc9a2-60cd-4dd0-827a-743f539662a3)
+
 
        
 # Tool
