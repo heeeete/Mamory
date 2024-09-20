@@ -5,7 +5,7 @@
 * [Tool](#Tool)
 # Development
 
-# 📹[영상](https://www.notion.so/Mamory-My-Memory-3d25720342594cfe83921d323811b20b "시연 영상")
+# 📹[영상](https://youtu.be/MI8tlvWtosI "시연 영상")
 
 ### 다이어리
 * 사용자는 다이어리에 날씨, 기분, 사진을 함께 기록할 수 있습니다.      
